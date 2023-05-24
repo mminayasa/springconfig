@@ -12,8 +12,3 @@ management:
     sampling:
       probability: 1.0
  
- okta:
-  oauth2:
-    issuer: https://dev-91874823.okta.com/oauth2/default
-    audience: api://default
-     
